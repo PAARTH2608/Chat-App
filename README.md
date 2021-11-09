@@ -27,13 +27,10 @@ Chat Application using NodeJS
 
 
 ### Built With
-
-To get a local copy up and running follow these simple steps.
-
-## Frontend Prerequisites
 - Nodejs 14.17.0
 
 ## Installation
+To get a local copy up and running follow these simple steps.
 Clone the repo
    ```sh
    https://github.com/PAARTH2608/Chat-App.git
