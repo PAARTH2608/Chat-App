@@ -27,7 +27,7 @@ Chat Application using NodeJS
 
 
 ### Built With
-- Nodejs 14.17.0
+- Nodejs 14.17.0 and Socket.io
 
 ## Installation
 To get a local copy up and running follow these simple steps.
